@@ -1,4 +1,9 @@
-# Pokedex
+# Projeto Angular - Pokedex
+Acesse a aplicação pelo link: ghrs123.github.io/pokedex/
+
+![image](https://github.com/ghrs123/pokedex/assets/79223128/352d1031-6f85-4f18-a45e-e172b6161c5b)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
